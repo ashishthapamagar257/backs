@@ -27,7 +27,6 @@ router.route('/api/userUpdate').patch(authCheck, userUpdate).all(notAllowed);
 
 
 module.exports = router;
-//kjkjkjkjk
 
 
 
